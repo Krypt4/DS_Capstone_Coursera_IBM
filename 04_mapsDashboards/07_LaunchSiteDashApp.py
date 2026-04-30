@@ -32,4 +32,4 @@ def update_graph(selected_site):
     return fig
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run(debug=True)
