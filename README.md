@@ -1,7 +1,14 @@
 <div align="center">
 
-[!WARNING]
-The file index.html and this README.md have been generated with the assistance of artificial intelligence. All other content in the repository (notebooks, analyses, models, and data) is my original work.
+## ⚠️ Project Notice
+
+> 🤖 **AI-assisted files**  
+> `index.html` and this `README.md` were generated with the help of artificial intelligence.
+>
+> 🧠 **Original work**  
+> All other content in this repository — including notebooks, analyses, models, and data — is entirely my own.
+
+---
 
 > 🌐 [View interactive project page](https://Krypt4.github.io/DS_Capstone_Coursera_IBM/)
 
