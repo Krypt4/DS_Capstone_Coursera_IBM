@@ -1,5 +1,8 @@
 <div align="center">
 
+[!WARNING]
+The file index.html and this README.md have been generated with the assistance of artificial intelligence. All other content in the repository (notebooks, analyses, models, and data) is my original work.
+
 > 🌐 [View interactive project page](https://Krypt4.github.io/DS_Capstone_Coursera_IBM/)
 
 # 🚀 SpaceX Falcon 9 — Landing Predictor
